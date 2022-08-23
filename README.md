@@ -27,3 +27,9 @@
 ## agregar imagen
 ![](agua.jpg)
 
+
+
+
+<strong>texto en negrita</strong>
+
+<em>texto en italica</emp>
