@@ -1,8 +1,11 @@
 # PERFIL ACADÉMICO
 
 **Nombre**: Josel Vargas
+
 **profesion**: Ing. Ambiental
+
 **lugar de trabajo**: senara
+
 
 
 ## Areas de interes 
