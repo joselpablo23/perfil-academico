@@ -15,11 +15,14 @@
 
 ## cursos llevados 
 * modelulos 1,2,3,4,5 de analisis de datos
+      * PRUEBA
 * Ingles avanzado
 
 ## LINKS
 [DIGHCR](https://dighcr.com/)
 
 [ARTICULOS JOSEL](https://www.mdpi.com/2073-4441/13/19/2631)
+
+
 
 
