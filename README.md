@@ -17,5 +17,5 @@
 1. modelulos 1,2,3,4,5 de analisis de datos
 2. Ingles avanzado
 
-## lug
+
 
