@@ -17,5 +17,5 @@
 * modelulos 1,2,3,4,5 de analisis de datos
 * Ingles avanzado
 
-
-
+## base de datos de senara
+[DIGHCR](https://dighcr.com/)
