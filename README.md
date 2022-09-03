@@ -4,7 +4,7 @@
 
 **profesion**: Ing. Ambiental
 
-**lugar de trabajo**: senara
+**lugar de trabajo**: SENARA
 
 
 
@@ -26,6 +26,8 @@
 
 ## agregar imagen
 ![](agua.jpg)
+
+
 
 
 
